@@ -1,4 +1,7 @@
-# -*- coding: utf-8 -*-
+#try things ...
+
+""" explainations"""
+
 import math
 
 print(2*2)
@@ -10,3 +13,4 @@ print(a)
 x=math.pi**2
 
 print(x)
+
